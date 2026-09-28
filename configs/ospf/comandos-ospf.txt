@@ -1,0 +1,35 @@
+# OSPF — referência dos comandos utilizados no Packet Tracer
+#
+# Aplicar em cada roteador e substituir as redes/wildcards de acordo
+# com as interfaces diretamente conectadas.
+
+enable
+configure terminal
+
+router ospf 1
+ network <REDE_1> <WILDCARD_1> area 0
+ network <REDE_2> <WILDCARD_2> area 0
+ network <REDE_3> <WILDCARD_3> area 0
+
+end
+write
+
+# Validação
+show ip route ospf
+show ip protocols
+show ip ospf neighbor
+show ip ospf interface
+ping <DESTINO>
+traceroute <DESTINO>
+
+# Alteração solicitada no experimento
+configure terminal
+interface <INTERFACE_DO_CAMINHO>
+ ip ospf cost 100
+exit
+end
+
+# Validar novamente
+show ip route ospf
+show ip ospf interface
+traceroute <DESTINO>

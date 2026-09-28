@@ -1,0 +1,24 @@
+# RIPv2 — referência dos comandos utilizados no Packet Tracer
+#
+# Aplicar em cada roteador e substituir <REDE_DIRETAMENTE_CONECTADA>
+# pelas redes conectadas àquele equipamento.
+
+enable
+configure terminal
+
+router rip
+ version 2
+ no auto-summary
+ network <REDE_DIRETAMENTE_CONECTADA_1>
+ network <REDE_DIRETAMENTE_CONECTADA_2>
+ network <REDE_DIRETAMENTE_CONECTADA_3>
+
+end
+write
+
+# Validação
+show ip route rip
+show ip protocols
+show ip route
+ping <DESTINO>
+traceroute <DESTINO>
