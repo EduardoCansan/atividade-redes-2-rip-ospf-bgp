@@ -3,8 +3,10 @@
 ## Entrega
 
 - [Enunciado do trabalho (PDF)](docs/TrabalhoI_2026_02_POA.pdf)
-- [Vídeo de apresentação e demonstração (WebM)](docs/video-apresentacao-trabalho-grau-a.webm)
 - [Apresentacao do Trabalho (PDF)](docs/Apresentacao_Eduardo_Meirelles_Menegat_Cansan.pdf)
+- [Documentação de Processo (PDF)](docs/relatorio_final_documentacao.pdf.pdf)
+- [Vídeo de apresentação e demonstração (WebM)](docs/video-apresentacao-trabalho-grau-a.webm)
+
 
 Repositório da atividade prática da disciplina **Redes de Computadores**.
 
