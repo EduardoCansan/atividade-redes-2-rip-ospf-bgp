@@ -37,8 +37,9 @@ atividade-05-rip-ospf-bgp/
 │   └── verificar-bgp.sh
 └── docs/
     ├── Apresentacao_Eduardo_Meirelles_Menegat_Cansan.pdf
-    ├── TrabalhoI_2026_02_POA.pdf
     ├── video-apresentacao-trabalho-grau-a.zip
+    ├── relatorio_final_documentacao.pdf
+    ├── TrabalhoI_2026_02_POA.pdf
     ├── topologia-bgp.md
     └── resultados.md
 ```
