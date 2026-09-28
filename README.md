@@ -4,6 +4,7 @@
 
 - [Enunciado do trabalho (PDF)](docs/TrabalhoI_2026_02_POA.pdf)
 - [Vídeo de apresentação e demonstração (WebM)](docs/video-apresentacao-trabalho-grau-a.webm)
+- [Apresentacao do Trabalho (PDF)](docs/Apresentacao_Eduardo_Meirelles_Menegat_Cansan.pdf)
 
 Repositório da atividade prática da disciplina **Redes de Computadores**.
 
@@ -35,6 +36,9 @@ atividade-05-rip-ospf-bgp/
 │   ├── aplicar-bgp.sh
 │   └── verificar-bgp.sh
 └── docs/
+    ├── Apresentacao_Eduardo_Meirelles_Menegat_Cansan.pdf
+    ├── TrabalhoI_2026_02_POA.pdf
+    ├── video-apresentacao-trabalho-grau-a.zip
     ├── topologia-bgp.md
     └── resultados.md
 ```
