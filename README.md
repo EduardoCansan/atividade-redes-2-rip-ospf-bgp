@@ -1,5 +1,10 @@
 # Atividade 05 — RIP, OSPF e BGP
 
+## Entrega
+
+- [Enunciado do trabalho (PDF)](docs/TrabalhoI_2026_02_POA.pdf)
+- [Vídeo de apresentação e demonstração (WebM)](docs/video-apresentacao-trabalho-grau-a.webm)
+
 Repositório da atividade prática da disciplina **Redes de Computadores**.
 
 O objetivo é registrar as configurações utilizadas nos testes de **RIPv2, OSPF e BGP**, além de explicar como reproduzir e validar os experimentos.
